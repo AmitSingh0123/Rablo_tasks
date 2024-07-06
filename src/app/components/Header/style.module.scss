@@ -1,0 +1,112 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 20px;
+  color: #fff;
+  position: relative;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 9999;
+
+  input {
+    width: 70%;
+    height: 100%;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    padding: 0 50px;
+    background-color: black;
+    color: #fff;
+    outline: none;
+    border: none;
+  }
+  button {
+    padding: 17px 18px;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    background-color: black;
+    color: #fff;
+    outline: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: none;
+    cursor: pointer;
+    transition: 0.5s;
+  }
+  button:hover {
+    scale: 1.1;
+  }
+}
+.search {
+  padding: 5px;
+  border: 2px solid rgb(130, 0, 0);
+  width: 600px;
+  height: 50px;
+  border-radius: 30px;
+  background-color: black;
+  display: flex;
+  align-items: center;
+  position: relative;
+  transition: .5s;
+
+  .container{
+    height:fit-content;
+    padding: 10px 20px;
+    width: 100%;
+    left: 0;
+    top: 60px;
+    background-color: #fff;
+    position: absolute;
+    border:1px solid #404040;
+    .closeBtn{
+      float: right;
+      display: flex;
+      width: 100%;
+      justify-content: flex-end;
+      font-size: 40px;
+      color: red;
+      cursor: pointer;
+      
+    }
+  }
+  .cardBody{
+    border: 1px solid rgb(82, 82, 82);
+    width: 350px;
+    padding: 20px;
+    border-radius: 10%;
+    color: black;
+    background: rgb(212, 247, 212);
+    cursor: pointer;
+    transition: .5s;
+    flex-shrink: 0;
+  
+    button{
+      padding: 10px 20px;
+      border-radius: 10px;
+      transition: .5s;
+      border: none;
+      background: bisque;
+      color: black;
+      cursor: pointer;
+    }
+    button:hover{
+      scale: 1.1;
+    }
+    div{
+      width: 100%;
+      display:flex;
+      justify-content: space-between;
+    }
+    .btn{
+      background: red;
+      border: none;
+      color: white;
+    }
+  }
+  .cardBody:hover{
+    scale: 1.1;
+  }
+  
+
+}

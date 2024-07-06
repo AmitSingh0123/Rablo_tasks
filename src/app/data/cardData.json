@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Mouse",
+    "description": "A high-quality wireless mouse with ergonomic design.",
+    "price": 29.99,
+    "imageUrl": "https://via.placeholder.com/300x200?text=Wireless+Mouse",
+    "category": "Electronics",
+    "stock": 150,
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Bluetooth Headphones",
+    "description": "Noise-cancelling Bluetooth headphones with long battery life.",
+    "price": 59.99,
+    "imageUrl": "https://via.placeholder.com/300x200?text=Bluetooth+Headphones",
+    "category": "Electronics",
+    "stock": 80,
+    "rating": 4.7
+  },
+  {
+    "id": 3,
+    "name": "Smart Watch",
+    "description": "A smart watch with various health-tracking features.",
+    "price": 99.99,
+    "imageUrl": "https://via.placeholder.com/300x200?text=Smart+Watch",
+    "category": "Wearables",
+    "stock": 120,
+    "rating": 4.3
+  },
+  {
+    "id": 4,
+    "name": "Gaming Keyboard",
+    "description": "Mechanical keyboard with customizable RGB lighting.",
+    "price": 79.99,
+    "imageUrl": "https://via.placeholder.com/300x200?text=Gaming+Keyboard",
+    "category": "Electronics",
+    "stock": 60,
+    "rating": 4.8
+  },
+  {
+    "id": 5,
+    "name": "Running Shoes",
+    "description": "Comfortable running shoes with excellent grip and support.",
+    "price": 49.99,
+    "imageUrl": "https://via.placeholder.com/300x200?text=Running+Shoes",
+    "category": "Apparel",
+    "stock": 200,
+    "rating": 4.6
+  },
+  {
+    "id": 6,
+    "name": "Laptop Backpack",
+    "description": "Durable and stylish laptop backpack with multiple compartments.",
+    "price": 39.99,
+    "imageUrl": "https://via.placeholder.com/300x200?text=Laptop+Backpack",
+    "category": "Accessories",
+    "stock": 100,
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "name": "Electric Toothbrush",
+    "description": "Rechargeable electric toothbrush with multiple brushing modes.",
+    "price": 25.99,
+    "imageUrl": "https://via.placeholder.com/300x200?text=Electric+Toothbrush",
+    "category": "Health",
+    "stock": 70,
+    "rating": 4.2
+  },
+  {
+    "id": 8,
+    "name": "Portable Charger",
+    "description": "High-capacity portable charger with fast charging capabilities.",
+    "price": 22.99,
+    "imageUrl": "https://via.placeholder.com/300x200?text=Portable+Charger",
+    "category": "Electronics",
+    "stock": 90,
+    "rating": 4.6
+  },
+  {
+    "id": 9,
+    "name": "Fitness Tracker",
+    "description": "Water-resistant fitness tracker with heart rate monitoring.",
+    "price": 45.99,
+    "imageUrl": "https://via.placeholder.com/300x200?text=Fitness+Tracker",
+    "category": "Wearables",
+    "stock": 130,
+    "rating": 4.5
+  },
+  {
+    "id": 10,
+    "name": "LED Desk Lamp",
+    "description": "Adjustable LED desk lamp with touch control and USB charging port.",
+    "price": 19.99,
+    "imageUrl": "https://via.placeholder.com/300x200?text=LED+Desk+Lamp",
+    "category": "Home",
+    "stock": 110,
+    "rating": 4.7
+  }
+]
